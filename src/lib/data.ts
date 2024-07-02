@@ -50,7 +50,7 @@ export const intro: Intro = {
   portrait: portrait,
   portraitAlt: 'Describe your profile picture',
   emoji: '👋',
-  description: `Hello <strong>I'm Ryan</strong>. I'm a graduate of Ocean County College. I enjoy <em>solving problems</em> and helping others with their goals.`,
+  description: `Hello <strong>I'm Elizabeth</strong>. I'm a student at Ocean County College. I look forward to<em>solving environmental problems</em>  helping others join this goal.`,
   buttons: [
     {
       label: 'Download Resume',
